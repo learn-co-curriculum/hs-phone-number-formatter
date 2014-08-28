@@ -31,9 +31,9 @@ x[0] #=> "h"
 x[4] #=> "o"
 ```
 
-+If you have experience with arrays, try using the `.split` method to convert the string into an array.
++ If you have experience with arrays, try using the `.split` method to convert the string into an array.
 
-+Try learning about [REGEX](http://rubylearning.com/satishtalim/ruby_regular_expressions.html) to remove items you don't want.
++ Try learning about [REGEX](http://rubylearning.com/satishtalim/ruby_regular_expressions.html) to remove items you don't want.
 
 
 ## Resources
