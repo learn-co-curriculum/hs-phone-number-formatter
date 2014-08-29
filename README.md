@@ -1,7 +1,8 @@
 ---
-  tags: todo, string manipulation, methods
+  tags: todo, string manipulation, methods, kids
   languages: ruby
   level: 3
+  type: stretch
 ---
 
 # Phone Number Formatter
