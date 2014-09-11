@@ -25,7 +25,7 @@ In this todo you'll be formatting an ugly phone number input like this: 51945570
 
 + What if letters and symbols are included? ("985ah304912j7", for example). Explore the `.gsub` and `.delete` methods to remove characters.
 
-+Did you know you can access single characters from a string? For example:
++ Did you know you can access single characters from a string? For example:
 ```
 x = "hello"
 x[0] #=> "h"
