@@ -7,11 +7,11 @@
 
 ## Phone Number Formatter
 
-<img src="https://s3.amazonaws.com/after-school-assets/wrong-number.gif" width="400" align="right">
+<img src="https://s3.amazonaws.com/after-school-assets/wrong-number.gif" width="400" align="right" hspace="10">
 
 A lot of times we need to deal with user input in our programs. Unfortunately, users don't always give us the input the way we expect it. To fix this we'll need to write a command line program that takes in user input and always outputs the output we expect.
 
-In this todo you'll be formatting an ugly phone number input like this: `5194557018` into a pretty phone number output, like this: `(519) 455-7018`.
+In this lab you'll be formatting an ugly phone number input like this: `5194557018` into a pretty phone number output, like this: `(519) 455-7018`.
 
 1. Create a new Ruby file called `number_formatter.rb`.
 2. Use the `gets` method to receive a number input from the user and assign this to a variable.
