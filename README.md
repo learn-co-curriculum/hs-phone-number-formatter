@@ -7,7 +7,7 @@
 
 ## Phone Number Formatter
 
-### Instructions
+<img src="https://s3.amazonaws.com/after-school-assets/wrong-number.gif" width="400" align="right">
 
 A lot of times we need to deal with user input in our programs. Unfortunately, users don't always give us the input the way we expect it. To fix this we'll need to write a command line program that takes in user input and always outputs the output we expect.
 
