@@ -1,3 +1,5 @@
+##It's important to note that there are many ways to solve this problem. Here is one of them:
+
 # Write your code here
 require 'pry'
 #prompts a user for a phone number
