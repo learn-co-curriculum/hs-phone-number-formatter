@@ -13,7 +13,7 @@ A lot of times we need to deal with user input in our programs. Unfortunately, u
 
 In this lab you'll be formatting an ugly phone number input like this: `5194557018` into a pretty phone number output, like this: `(519) 455-7018`.
 
-1. Create a new Ruby file called `number_formatter.rb`.
+1. Create a new Ruby file called `ruby_phone_format.rb`.
 2. Use the `gets` method to receive a number input from the user and assign this to a variable.
 3. Remove any unwanted characters.
 4. Give the user back their numbers in the proper format.
