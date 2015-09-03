@@ -1,5 +1,3 @@
-
-
 ## Phone Number Formatter
 
 <img src="https://s3.amazonaws.com/after-school-assets/wrong-number.gif" width="400" align="right" hspace="10">
@@ -7,6 +5,9 @@
 A lot of times we need to deal with user input in our programs. Unfortunately, users don't always give us the input the way we expect it. To fix this we'll need to write a command line program that takes in user input and always outputs the output we expect.
 
 In this lab you'll be formatting some crazy phone number inputs like this into a pretty phone number output. Below are four different levels of formatters. Each level increases in difficulty and builds on the level below it. Don't worry if the levels get to hard, that's why this is a stretch lab. If you can't complete it now, remember it's only the first day of class. You will be able to complete it by the last!
+
+### Food For Thought
+**Remember, you're the designer and the developer. So you control how your user enters the phone number.** Obviously when we use a phone, we like to enter all 10 digits at once. But there is a rule of programming to consider: `make it work, make it right, make it fast`. What this means, is that you have to make your app work above all else, so if that means having your user enter one number at a time and you store each number in it's own variable, THAT'S OK!
 
 ### Basic Formatter
 For this first formatter, we want to make sure we're just taking in numbers from a user. We can't predict what our user will do ever (cardinal rule of programmer, users do weird things), so that means we have to be defensive with our code.
