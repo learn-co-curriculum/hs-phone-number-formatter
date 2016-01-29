@@ -54,4 +54,4 @@ x[4] #=> "o"
 * [Programming Ruby 1.9](http://books.flatironschool.com/books/11?page=110) - [Changing Strings with Patterns](http://books.flatironschool.com/books/11?page=110), page 110
 * [Rubular](http://rubular.com/) This has a glossary of regex at the bottom and a repl to test your expressions at the top.
 
-<a href='https://learn.co/lessons/hs-phone-number-formatter' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-phone-number-formatter' title='Phone Number Formatter'>Phone Number Formatter</a> on Learn.co and start learning to code for free.</p>
